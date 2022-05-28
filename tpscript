@@ -1,8 +1,4 @@
--- Gui to Lua
--- Version: 3.2
-
--- Instances:
-
+-THIS IS VELSCRIPTS' SCRIPT DUDE DONT TRY TO FUCK ME 
 local Frame = Instance.new("Frame")
 local nameofthegui = Instance.new("TextLabel")
 local UICorner = Instance.new("UICorner")
@@ -16,8 +12,6 @@ local TextButton_5 = Instance.new("TextButton")
 local TextButton_6 = Instance.new("TextButton")
 local TextButton_7 = Instance.new("TextButton")
 
-
---Properties:
 
 Frame.Parent = game.StarterGui.ScreenGui
 Frame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
